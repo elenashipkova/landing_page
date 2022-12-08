@@ -1,0 +1,12 @@
+.cards {
+	width: 936.59px;
+	height: 206.27px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	list-style: none;
+	position: absolute;
+	top: 292.65px;
+	margin: 0;
+	padding: 0;
+}

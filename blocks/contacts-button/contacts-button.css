@@ -1,0 +1,11 @@
+.contacts-button {
+	background: url(../../images/contacts/chip\ bg.png);
+	width: 180.5px;
+	height: 42px;
+	margin: 29.6px auto 0;
+	transition: transform 0.5s linear;
+}
+
+.contacts-button:hover {
+	transform: scale(1.3);
+}

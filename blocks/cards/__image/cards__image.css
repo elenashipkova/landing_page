@@ -1,0 +1,10 @@
+.cards__image {
+	width: 89.07px;
+	height: 88.41px;
+	background: black;
+	transition: transform 1s ease;
+}
+
+.cards__image:hover {
+	transform: scale(1.3);
+}

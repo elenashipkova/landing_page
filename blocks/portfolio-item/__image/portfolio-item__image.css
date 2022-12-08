@@ -1,0 +1,11 @@
+.portfolio-item__image {
+	position: relative;
+  width: 936.24px;
+  height: 510px;
+  transition: all 0.5s linear;
+}
+
+.portfolio-item__image:hover {
+  box-shadow: 10px 10px 10px #366C49;
+  transform: scale(1.1);
+}

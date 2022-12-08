@@ -1,0 +1,10 @@
+.contacts__social-icons {
+	display: flex;
+	flex-direction: row;
+	width: 342.18px;
+	height: 40.92px;
+	list-style: none;
+	justify-content: space-between;
+	margin: 79.78px auto 0;
+	padding: 0;
+}

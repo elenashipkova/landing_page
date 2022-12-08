@@ -1,0 +1,8 @@
+.header {
+	width: 940.6px;
+	max-height: 768px;
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	margin: 0 auto;
+}

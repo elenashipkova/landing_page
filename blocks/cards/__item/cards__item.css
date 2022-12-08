@@ -1,0 +1,8 @@
+.cards__item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	width: 166.46px;
+	height: 206.29px;
+}

@@ -1,0 +1,11 @@
+.header-elements__photo {
+	position: absolute;
+  width: 943.61px;
+  height: 387px;
+  top: 189px;
+	object-position: top;
+	object-fit: cover;
+	overflow: hidden;
+  
+
+}

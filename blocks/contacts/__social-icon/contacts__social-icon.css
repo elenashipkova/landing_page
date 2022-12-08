@@ -1,0 +1,9 @@
+.contacts__social-icon {
+	border: none;
+	transition: all 0.5s linear;
+}
+
+.contacts__social-icon:hover {
+	transform: rotate(15deg);
+	box-shadow: 2px 2px 2px rgb(228, 138, 138);
+}

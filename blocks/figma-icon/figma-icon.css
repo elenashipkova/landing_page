@@ -1,0 +1,11 @@
+.figma-icon {
+	display: flex;
+	flex-flow: row wrap;
+	height: 89px;
+	width: 58.24px;
+	transition: transform 1s ease;
+}
+
+.figma-icon:hover {
+	transform: scale(1.3);
+}

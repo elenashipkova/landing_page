@@ -1,0 +1,11 @@
+.contacts-button__submit {
+	font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #FFFFFF;
+	background-color: black;
+	border: none;
+	border-radius: 20px;
+	padding: 10px 30px;
+	cursor: pointer;
+}
