@@ -1,7 +1,4 @@
 # Отработка навыков простой верстки HTML, CSS
 
-![Как выглядит лэндинг]
-(https://github.com/elenashipkova/landing_page/raw/main/readme_images/top.png)
-
-![Как выглядит лэндинг]
-(https://github.com/elenashipkova/landing_page/raw/main/readme_images/bottom.png)
+<image src="/readme_images/top.png" alt="1 part">
+<image src="/readme_images/bottom.png" alt="2 part">
